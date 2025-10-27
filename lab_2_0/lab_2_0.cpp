@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    cout << "Some Text Here" << endl;
     const double PI = acos(-1.0);
 
     double alpha_deg, beta_deg;
